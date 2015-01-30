@@ -2,7 +2,7 @@
 /**
  * Plugin Name: WooCommerce Birthday Reminder
  * Plugin URI: http://agenciamagma.com.br
- * Description: Send an email to the users with birthday in the current month and to the users with birthday in the current day
+ * Description: Send an email to the users with birthday in the current month and to the users with birthday in the current day. Confira a versão premium de nossos plugins em <a href="http://www.magmastore.com.br/">http://www.magmastore.com.br/</a>.
  * Version: 1.0.0
  * Author: agenciamagma, Carlos Cardoso Dias
  * Author URI: http://agenciamagma.com.br
